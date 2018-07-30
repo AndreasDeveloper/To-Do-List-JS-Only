@@ -19,7 +19,7 @@ if(input === "list") {
     // Ask for a NEW input
     var input = prompt("What would you like to do?");
 }
-console.log("App Quit");
+console.log("App Quit.");
 
 
 // --- FUNCTIONS --- // 
